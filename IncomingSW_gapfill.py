@@ -45,7 +45,6 @@ import matplotlib.pyplot as plt
 matplotlib.rcParams['legend.fancybox'] = True
 from matplotlib.backends.backend_pdf import PdfPages
 from pylab import *
-import pdb 
 
 # Custom modules
 import Timezone_v3a as TimeZone
